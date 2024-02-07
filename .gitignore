@@ -4,6 +4,7 @@
 /.env
 # Logs
 /uploads
+/fonts
 logs
 *.log
 npm-debug.log*
